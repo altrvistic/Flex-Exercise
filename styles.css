@@ -2,3 +2,13 @@ body {
     margin: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
+.europe {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.img {
+    max-width: 30%;
+}
